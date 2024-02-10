@@ -1,0 +1,14 @@
+.form {
+    padding: 16px;
+  }
+  .btn {
+    background-color: rgb(104, 161, 39);
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    margin-top: 8px;
+  }
+  
+  .inp:focus {
+    border: 3px solid rgb(60, 95, 20);
+    box-shadow: 1px 1px 2px 0 rgb(104, 161, 39);
+  }
